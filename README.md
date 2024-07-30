@@ -65,4 +65,3 @@ To enhance the verification process and mitigate risks associated with loan defa
 
 ## Team
 - Anil juneja
-- Akshay
